@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494248613666",
+    "project_id": "biydaalt-f48c0",
+    "storage_bucket": "biydaalt-f48c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494248613666:android:7b37f84022bc04e50cb77b",
+        "android_client_info": {
+          "package_name": "com.example.biydaalt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBXKEHc1g5qM96GtXgZkt4PzGwK2HIeRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
